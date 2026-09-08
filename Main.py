@@ -7,4 +7,6 @@
 # Project Description
 #############################################
 
-# THIS IS WHERE YOU CODEprint("hello everyone")
+# THIS IS WHERE YOU CODEprint("hello everyone")print("hello everyone")
+name = input( "what is your name")
+age = input( "what is your age")
