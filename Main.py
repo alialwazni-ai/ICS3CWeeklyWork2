@@ -11,3 +11,4 @@
 print("hello everyone")
 name = input( "what is your name")
 age = input( "what is your age")
+input("where are you from")
